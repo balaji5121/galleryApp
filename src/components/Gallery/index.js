@@ -76,13 +76,7 @@ const imagesList = [
 class Gallery extends Component {
   state = {acImage: imagesList[0]}
 
-  // newItem = id => {
-  //   this.setState({activeIdImage: imagesList[id]})
-  // }
 
-  // newItem = id => {
-  //   this.setState({acImage: imagesList[id]})
-  // }
 
   newItem = id => {
     this.setState({acImage: imagesList[id]})
