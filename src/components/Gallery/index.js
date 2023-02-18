@@ -80,11 +80,17 @@ class Gallery extends Component {
   //   this.setState({activeIdImage: imagesList[id]})
   // }
 
-newItem = id => {
+  // newItem = id => {
+  //   this.setState({acImage: imagesList[id]})
+  // }
+
+  newItem = id => {
     this.setState({acImage: imagesList[id]})
   }
 
+  
   render() {
+    let  images = {name:""}
     const {activeIdImage} = this.state
 
     return (
