@@ -11,6 +11,46 @@ const imagesList = [
       'https://assets.ccbp.in/frontend/react-js/nature-mountain-with-pond-thumbnail-img.png',
     imageAltText: 'nature mountain with pond',
     thumbnailAltText: 'nature mountain with pond thumbnail',
+  },{
+    id: 0,
+    imageUrl:
+      'https://assets.ccbp.in/frontend/react-js/nature-mountain-with-pond-img.png',
+    thumbnailUrl:
+      'https://assets.ccbp.in/frontend/react-js/nature-mountain-with-pond-thumbnail-img.png',
+    imageAltText: 'nature mountain with pond',
+    thumbnailAltText: 'nature mountain with pond thumbnail',
+  },{
+    id: 0,
+    imageUrl:
+      'https://assets.ccbp.in/frontend/react-js/nature-mountain-with-pond-img.png',
+    thumbnailUrl:
+      'https://assets.ccbp.in/frontend/react-js/nature-mountain-with-pond-thumbnail-img.png',
+    imageAltText: 'nature mountain with pond',
+    thumbnailAltText: 'nature mountain with pond thumbnail',
+  },{
+    id: 0,
+    imageUrl:
+      'https://assets.ccbp.in/frontend/react-js/nature-mountain-with-pond-img.png',
+    thumbnailUrl:
+      'https://assets.ccbp.in/frontend/react-js/nature-mountain-with-pond-thumbnail-img.png',
+    imageAltText: 'nature mountain with pond',
+    thumbnailAltText: 'nature mountain with pond thumbnail',
+  },{
+    id: 0,
+    imageUrl:
+      'https://assets.ccbp.in/frontend/react-js/nature-mountain-with-pond-img.png',
+    thumbnailUrl:
+      'https://assets.ccbp.in/frontend/react-js/nature-mountain-with-pond-thumbnail-img.png',
+    imageAltText: 'nature mountain with pond',
+    thumbnailAltText: 'nature mountain with pond thumbnail',
+  },{
+    id: 0,
+    imageUrl:
+      'https://assets.ccbp.in/frontend/react-js/nature-mountain-with-pond-img.png',
+    thumbnailUrl:
+      'https://assets.ccbp.in/frontend/react-js/nature-mountain-with-pond-thumbnail-img.png',
+    imageAltText: 'nature mountain with pond',
+    thumbnailAltText: 'nature mountain with pond thumbnail',
   },
   {
     id: 1,
